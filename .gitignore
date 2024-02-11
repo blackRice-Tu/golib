@@ -1,0 +1,11 @@
+# project
+.vscode
+.idea
+
+# local
+conf.dev.yaml
+tmp
+.profile
+
+# build
+.main
